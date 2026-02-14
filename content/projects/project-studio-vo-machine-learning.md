@@ -32,3 +32,5 @@ I joined the project after initial research was complete. Working with the lead 
 ### Outcome
 
 The redesigned interface led to a 30% improvement in case processing workflow, generating $10 million in additional annual revenue
+
+

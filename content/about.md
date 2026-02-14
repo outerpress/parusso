@@ -1,15 +1,22 @@
 ---
 title: About me
 # Description and images are for search results, social media posts, etc
-description: TBD
+description: About Peter Russo
 images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 ---
 
 ![Peter russo with mountains and water in the background.](/img/selfie-bay.jpg)
 
-I translated a love of creativity and technology into an art degree, then a career as a web developer before finally landing on my career as a user experience designer, where my first role was to build a successful team.
+I grew up in a town of about 600 people and 300 cows in rural Massachusetts where I learned how to be bored in innovative ways. I explored the woods as much as I played D&D with my creative nerdy friends. 
 
-Before all of that I grew up in rural Massachusetts where I learned how to be bored in innovative ways, usually involving exploring the woods or hanging out with my D&D buddies.
+I practiced art through college and earned my BFA in Printmaking before moving out west with my girlfriend (now wife). Unable to lug around a printing press to various cheap apartments, I focused on building websites for artists, photographers, and other small business owners, while working part time at an Italian deli to pay the bills.
 
-Currently I live in Portland, Oregon where I practice art and illustrate children’s books among (too) many other hobbies, and steep in the natural beauty and creative nerdiness that fills my adopted town.
+I found my first job in tech in  Portland, Ore. as a web developer. After a few company changes I found myself working as a senior dev at CollegeNET. They were just at the start of building out their UX team, and I was given the opportunity to lead that effort. That was my transition into user experience design. I loved the problems we were solving, the research, and the community in Portland. 
 
+Since then I’ve designed many complex tools, helped teams work better together, and generally made life easier for a lot of people. These days I focus on Civic Tech at Ad Hoc, where I’m a Design Lead. I help multiple teams deliver health care management tools on a contract  for the U.S. Department of Veterans Affairs.
+
+I still live in Portland, Oregon with my wife and often a random dog or cat (we love pet-sitting for our friends). I practice art and illustration, and I’m a nature nerd with a rock tumbler, 
+
+Check out some of my more recent/relevant [projects](projects/).
+
+Want to talk about your complex digital problem? [Let’s connect](/contact).
