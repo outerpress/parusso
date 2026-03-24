@@ -6,7 +6,6 @@ summary: "Accessibility is a core design requirement for tools on VA.gov, whose 
 previewImage: 
   src: "img/a11y-checklist.png"
   altText: "TBD"
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "appointment-management"
 weight: 20 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc

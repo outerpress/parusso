@@ -6,7 +6,6 @@ summary: "I improved the usability of a staff-facing tool for processing insuran
 previewImage: 
   src: "img/halmed-user-types.png"
   altText: "Diagram showing Intake Staff, Nurse, and Doctor user types feeding into a core workflow"
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "studio-vo-machine-learning"
 weight: 40 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc

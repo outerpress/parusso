@@ -6,7 +6,6 @@ summary: "My research into notification services gave our business partners a be
 previewImage: 
   src: "img/service-map.png"
   altText: "TBD"
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "appointment-management"
 weight: 20 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc
@@ -15,7 +14,7 @@ images: ["/img/service-map.png"]
 
 ---
 
-![Alt Text](/img/service-map.png)
+![Cropped image of a mural covered with sticky notes in the columns and lanes layout of a service map](/img/service-map.png)
 
 {{< intro >}}
 My research into notification services gave our business partners a better understanding of the extent and causes of issues in these systems that they needed to advocate for change across multiple VA departments.

@@ -7,7 +7,6 @@ I developed a process for analyzing user feedback that helped our team identify 
 previewImage: 
   src: "img/tracked-feedback.png"
   altText: "Spreadsheet used to track and categorize user feedback" 
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "operationalized-continuous-delivery"
 weight: 10 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc

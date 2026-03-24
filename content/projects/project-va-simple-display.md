@@ -6,7 +6,6 @@ summary: "During usability testing participants loved the simplified view of the
 previewImage: 
   src: "img/content-audit-1.png"
   altText: "Screenshot of a content audit with sticky notes categorizing appointment types"
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "complex-appointment-types"
 weight: 30 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc

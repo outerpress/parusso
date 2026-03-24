@@ -6,7 +6,6 @@ summary: "When we transitioned users to a new appointments tool, monthly users j
 previewImage: 
   src: "img/users-over-time.png"
   altText: "Line graph showing the increase in completed appointments over time"
-  caption: "You can add a caption to your preview image here, or you can delete this and have no caption."
 slug: "appointment-management"
 weight: 20 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc
