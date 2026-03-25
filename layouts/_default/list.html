@@ -2,7 +2,7 @@
   {{ $.Page.Params.ListIntro | markdownify }}
   {{ range .Pages }}
     <article>
-      <h3>{{ .Title }}</h3>
+      <h3 id="article-{{ .File.UniqueID }}">{{ .Title }}</h3>
       {{ with .Params.PreviewImage }}
         {{ if .caption}}
           <figure>
@@ -17,7 +17,7 @@
         {{ end }}
       {{ end }}
       <p>{{ .Summary | plainify }}</p>
-      <a href="{{ .Permalink }}">{{ $.Page.Params.readMoreText }}</a>
+      <a href="{{ .Permalink }}" id="read-more-{{ .File.UniqueID }}" aria-labelledby="read-more-{{ .File.UniqueID }} article-{{ .File.UniqueID }}">{{ $.Page.Params.readMoreText }}</a>
     </article>
   {{ end }}
 {{ .Content }}

@@ -3,7 +3,7 @@ title: Projects
 # Description and images are for search results, social media posts, etc
 description: "Portfolio of UX design projects in healthcare and civic tech, focusing on complex systems, government services, and user-centered solutions."
 images: ["/img/pete-explains-it.jpg"]
-readMoreText: "Read the case study →"
+readMoreText: "Read more →"
 listIntro: 
   "Highlights from my work in healthcare and civic tech"
 ---

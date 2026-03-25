@@ -42,7 +42,8 @@ This work gave us a consistent mental model for appointments that provided struc
 
 When we saw a massive new influx of users we received positive input about the tool and appointment structures.
 
+![Alt Text](/img/details.png)
 
-[TODO: add image of final screens (in person appt is fine)]
+{{< img src="/img/details.png" alt="Alt Text" caption="Your Caption Here" >}}
 
 
