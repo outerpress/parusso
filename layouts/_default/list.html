@@ -2,7 +2,7 @@
   {{ $.Page.Params.ListIntro | markdownify }}
   {{ range .Pages }}
     <article>
-      <h3 id="article-{{ .File.UniqueID }}">{{ .Title }}</h3>
+      <h3 id="article-{{ .File.UniqueID }}"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       {{ with .Params.PreviewImage }}
         {{ if .caption}}
           <figure>

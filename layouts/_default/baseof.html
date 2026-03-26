@@ -9,13 +9,17 @@
             {{ if ne .Params.showHeader false }}
                 <header>
                     {{ if and (eq .Kind "page") (ne .Section "") }}
+                    {{ if eq .Params.layout "project" }}
+                        {{ with .CurrentSection }}
+                        <a class="breadcrumb back-link" href="{{ .RelPermalink }}">&larr; Back to projects</a>
+                        {{ else }}
+                        <a class="breadcrumb back-link" href="{{ "/projects/" | relLangURL }}">&larr; Back to projects</a>
+                        {{ end }}
+                    {{ else }}
                     {{- partial "breadcrumb.html" . -}}
                     {{ end }}
-                    {{ if eq .Params.layout "project"}}
-                        <h1>{{ .Title }}</h1>
-                    {{ else }}
-                    <h1>{{ .Title }}</h1>
                     {{ end }}
+                    <h1>{{ .Title }}</h1>
                 </header>
             {{ end }}
 

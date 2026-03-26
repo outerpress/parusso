@@ -1,3 +1,8 @@
 {{ define "main" }}
   {{ .Content }}
+  {{ with .CurrentSection }}
+  <a class="breadcrumb back-link back-link-bottom" href="{{ .RelPermalink }}">&larr; Back to projects</a>
+  {{ else }}
+  <a class="breadcrumb back-link back-link-bottom" href="{{ "/projects/" | relLangURL }}">&larr; Back to projects</a>
+  {{ end }}
 {{ end }}
