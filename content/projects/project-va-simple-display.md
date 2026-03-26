@@ -42,8 +42,6 @@ This work gave us a consistent mental model for appointments that provided struc
 
 When we saw a massive new influx of users we received positive input about the tool and appointment structures.
 
-![Alt Text](/img/details.png)
-
-{{< img src="/img/details.png" alt="Alt Text" caption="Your Caption Here" >}}
+{{< img src="/img/details.png" alt="Appointment details page showing the consistent data display structure" >}}
 
 
