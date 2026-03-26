@@ -136,7 +136,7 @@ blockquote {
     margin-block-start: 30px;
     margin-block-end: 30px;
     border-left: 4px solid var(--primary);
-    font-size: 16px;
+    font-size: 1rem;
     padding-block-start: 4px;
     padding-block-end: 4px;
     margin-inline-start: 0;
@@ -152,7 +152,7 @@ blockquote {
         margin-block-end: 50px;
     }
     @media (min-width: variables.$min-desktop) {
-        font-size: 18px;
+        font-size: 1.125rem;
         margin-inline-start: 20px;
         margin-inline-end: 20px;
         padding-left: 20px;

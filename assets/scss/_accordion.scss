@@ -23,7 +23,7 @@
             margin-block-end: 0;
 
             line-height: 26px;
-            font-size: 20px;
+            font-size: 1.25rem;
             text-transform: none;
             color: var(--text-color);
             font-family: var(--header-font-family);
@@ -33,11 +33,11 @@
             padding-bottom: 34px;
             margin-inline-end: 34px;
             @media (min-width: variables.$min-desktop) {
-                font-size: 30px;
-                line-height: 50px;
-                padding-top: 40px;
-                padding-bottom: 40px;
-                margin-inline-end: 40px;
+                font-size: 1.875rem;
+                line-height: 3.125rem;
+                padding-top: 2.5rem;
+                padding-bottom: 2.5rem;
+                margin-inline-end: 2.5rem;
             }
         }
     }
