@@ -15,5 +15,6 @@ Want to talk about your complex digital problem? [Let’s connect](/contact)!
 
 Or, learn more about my background:
 
-- [Projects](projects/)
-- [About me](/about)
+🧰 [Projects](projects/)
+
+🦦 [About me](/about)

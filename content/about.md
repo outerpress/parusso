@@ -13,7 +13,6 @@ I practiced art through college and earned my BFA in Printmaking before moving o
 
 I found my first job in tech in  Portland, Ore. as a web developer. After a few company changes I found myself working as a senior dev at CollegeNET. They were just at the start of building out their UX team, and I was given the opportunity to lead that effort. That was my transition into user experience design. I loved the problems we were solving, the research, and the community in Portland. 
 
-
 ![Peter standing in front of a whiteboard pointing at diagrams](/img/pete-explains-it.jpg)
 
 Since then I’ve designed many complex tools, helped teams work better together, and generally made life easier for a lot of people. These days I focus on Civic Tech at Ad Hoc, where I’m a Design Lead. I help multiple teams deliver health care management tools on a contract  for the U.S. Department of Veterans Affairs.
@@ -22,7 +21,7 @@ I still live in Portland, Oregon with my wife and often a random dog or cat (we 
 
 ![Peter sitting on a couch smiling with a small black dog on his lap](/img/petesitting.jpg)
 
-Check out some of my more recent/relevant [projects](projects/).
+🧰 Check out some of my more recent/relevant [projects](projects/).
 
-Ready to talk about your complex digital problem? [Let’s connect](/contact)!
+📧 Ready to talk about your complex digital problem? [Let’s connect](/contact)!
 
