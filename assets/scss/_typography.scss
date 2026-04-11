@@ -34,9 +34,15 @@ h1,
     font-family: var(--header-font-family);
     font-weight: 700;
     color: var(--primary);
-    line-height: 1;
-    font-size: 4rem;
+    line-height: 1.15;
+    font-size: 2.5rem;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
     @media (min-width: variables.$min-desktop) {
+        line-height: 1;
+        font-size: 4rem;
         margin-bottom: 50px;
     }
 }
@@ -51,6 +57,9 @@ h2,
     letter-spacing: 0%;
     margin-block-start: 50px;
     margin-block-end: 20px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
 }
 
 h3,
@@ -63,6 +72,9 @@ h3,
     letter-spacing: 0%;
     margin-block-start: 40px;
     margin-block-end: 15px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
 }
 
 h4,
