@@ -230,6 +230,8 @@
         setElementInert(pageFooter, menuIsOpen);
     };
 
+    const isMobileMenuOpen = () => document.body.classList.contains('has-menu-active');
+
     const openMobileMenu = () => {
         if (!isMobile) {
             return;
@@ -275,7 +277,11 @@
         const wasMobile = isMobile;
         isMobile = !desktopMediaQuery.matches;
 
-        if (isMobile !== wasMobile) {
+        if (!isMobile && wasMobile) {
+            closeMobileMenu();
+        }
+
+        if (isMobile && !wasMobile) {
             closeMobileMenu();
         }
 
@@ -283,7 +289,7 @@
             menuSubs.forEach(subMenu => subMenu.style.removeProperty('display'));
         }
 
-        setMobileInteractivityState(false);
+        setMobileInteractivityState(isMobile && isMobileMenuOpen());
         applyHoverIntent();
         applyDropdownListeners();
         resetMenusAndDropdowns();
@@ -364,6 +370,8 @@
 
         if (!isMobile) {
             menuSubs.forEach(element => {
+                element.removeEventListener('mouseenter', stopCloseMenuTimeout, false);
+                element.removeEventListener('mouseleave', startCloseMenuTimeout, false);
                 element.addEventListener('mouseenter', stopCloseMenuTimeout, false);
                 element.addEventListener('mouseleave', startCloseMenuTimeout, false);
             });
