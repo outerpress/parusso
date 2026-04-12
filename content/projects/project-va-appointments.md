@@ -2,14 +2,14 @@
 title: "Easing the transition to a new health portal"
 subtitle: "Ad Hoc | Department of Veterans Affairs"
 layout: "project"
-summary: "When we transitioned users to a new appointments tool, monthly users jumped from 500,000 to nearly 1 million. Customer satisfaction scores increased from 56% to 75% during that time, with new users responding most positively."
+summary: "When we transitioned users to a new appointments portal, monthly users jumped from 500,000 to nearly 1 million. Customer satisfaction scores increased from 56% to 75% during that time, with new users responding most positively."
 previewImage: 
   src: "img/users-over-time.png"
   altText: "Line graph showing the increase in completed appointments over time"
 slug: "health-portal-transition"
 weight: 20 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc
-description: "Designing a unified VA appointments tool that consolidated three portals and increased user satisfaction scores from 56% to 75%."
+description: "Transitioning users to a unified appointments tool that consolidated three portals and increased user satisfaction scores from 56% to 75%."
 images: ["/img/users-over-time.png"]
 
 ---
@@ -20,7 +20,7 @@ When we transitioned users to a new appointments tool, monthly users jumped from
 
 ### Background
 
-Veterans had to navigate three different portals to access their health care information. The VA was working toward switching off two of those portals so Veterans would be able to access everything in one place. Our team was tasked with building the tool that would let Veterans manage and schedule appointments in the new unified portal experience. For this project we improved upon all the functionality users had come to expect from the previous portal and added new scheduling features. We also provided an easy transition from the old portals. 
+Veterans had to navigate three different portals to access their health care information. The client was working toward switching off two of those portals so Veterans would be able to access everything in one place. Our team was tasked with building the tool that would let Veterans manage and schedule appointments in the new unified portal experience. For this project we improved upon all the functionality users had come to expect from the previous portal and added new scheduling features. We also provided an easy transition from the old portals. 
 
 ### My work
 

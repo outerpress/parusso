@@ -9,7 +9,7 @@ previewImage:
 slug: "complex-appointment-types"
 weight: 30 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc
-description: "Simplifying complex VA appointment data into a clear, consistent user interface using OOUX methods, improving navigation and user comprehension."
+description: "Simplifying complex appointment data into a clear, consistent user interface using OOUX methods, improving navigation and user comprehension."
 images: ["/img/content-audit-1.png"]
 
 ---

@@ -10,7 +10,7 @@ previewImage:
 slug: "continuous-discovery"
 weight: 10 # Use this to set the order it appears in the projects list
 # Description and images are for search results, social media posts, etc
-description: "Establishing a continuous discovery process to analyze user feedback, identify high-value features, and track release success for VA health tools."
+description: "Establishing a continuous discovery process to analyze user feedback, identify high-value features, and track release success for health management tools."
 images: ["/img/tracked-feedback.png"]
 
 ---
@@ -27,8 +27,7 @@ Every day the team would receive 50-100 comments about the appointments tool thr
 
 I developed a method to analyze the feedback for themes, sentiment, and feature requests, as well as a structure to regularly report out the findings:
 
-- I captured all the feedback in Excel, as all data needed to remain on the VA network to avoid exposing PHI/PII, and getting buy-in on using new tools was a challenge.
-- I coded the themes that came up regularly, along with feature requests, bugs, and outage reports.
+- I coded all the user feedback for themes, feature requests, bugs, and outage reports.
 - I set up regular reports on the themes from feedback to the team and stakeholders. I brought users' top asks to roadmap discussions. 
 - During major releases, I monitored feedback daily, and tracked user behavior data in Google Analytics and Datadog. If issues started emerging, we could pull the feature quickly.
 
