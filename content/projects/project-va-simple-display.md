@@ -30,7 +30,7 @@ There were over 100 variations across the 9 overall types. Data had been added t
 ### My work
 To make this easy to use, the language and structure needed to be consistent whether they appeared on the web, the mobile app, or in an email notification.
 
-To accomplish this, I reviewed existing research to develop an appointment model. I then ran an object-oriented UX (OOUX) workshop with SMEs, stakeholders, and content specialists to define consistent types. I tested this model in multiple usability studies to make sure that it made sense to Veterans.
+To accomplish this, I reviewed existing research to develop an appointment model. I then ran an object-oriented UX (OOUX) workshop with SMEs, stakeholders, and content specialists to define consistent types. I tested this model in multiple usability studies to make sure that it made sense to users.
 
 ![Screenshot of a virtual whiteboard with organized sticky notes](/img/content-audit-2.png)
 
