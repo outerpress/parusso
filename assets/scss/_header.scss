@@ -17,7 +17,7 @@
 
     .header-shape-divider {
         color: var(--cream);
-        overflow: hidden;
+        overflow: hidden;         
         .has-menu-active & {
             color: var(--white);
         }
@@ -29,6 +29,7 @@
             width: 100%;
             height: 45px;
             transform: rotate(180deg);
+            margin-bottom: -1px;
 
             .page-home & {
                 height: 110px;
