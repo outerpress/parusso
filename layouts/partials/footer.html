@@ -65,7 +65,7 @@
         {{ end }}
 
         <div class="footer-logo-social-wrapper">
-            <span class="social-pre-text">Peter Russo</span>
+            <span class="social-pre-text"><a href="{{ "" | absLangURL }}">Peter Russo</a></span>
             {{ with .Site.Params.logo_on_black }}
             <a class="logo-link" href="{{ "" | absLangURL }}">
                 <img loading="lazy" class="logo" width="150" height="40" src="{{ . | absURL }}" alt="{{ $.Site.Title | safeHTMLAttr }}"></a>
