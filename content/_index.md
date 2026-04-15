@@ -7,7 +7,7 @@ description: "Portfolio of Peter Russo, a UX Design Lead helping teams build eff
 images: ["/img/pete-explains-it.jpg"]
 ---
 
-To create an outstanding user experience, I help teams align to clear goals, build confidence in their decisions, and move efficiently together. I do this by building a culture centered around real user needs, that the team discovers together.  Experiences built with a deep understanding of the people who use them will make a real difference in their lives.
+To create an outstanding user experience, I help teams align to clear goals, build confidence in their decisions, and move efficiently together. I do this by building a culture centered around real user needs that the team discovers together. Experiences built with a deep understanding of the people who use them will make a real difference in their lives.
 
 Learn more about:
 
@@ -15,4 +15,4 @@ Learn more about:
 
 🦦 [My background](/about)
 
-Ready to talk about your complex digital problem? [let’s connect](/contact)!
+Ready to talk about your complex digital problem? **[Let’s connect!](/contact)**

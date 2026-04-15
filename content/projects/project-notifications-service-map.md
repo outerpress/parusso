@@ -26,7 +26,7 @@ Our stakeholders had received many complaints over the years about confusing app
 
 ### My work
 
-I worked with stakeholders across many different teams to identify all people, systems, and touch points across the journey of attending an appointment. I mapped this out along with pains and opportunities at each step in the journey. 
+I worked with stakeholders across many different teams to identify all people, systems, and touchpoints across the journey of attending an appointment. I mapped this out along with pains and opportunities at each step in the journey. 
 
 ![Service map diagram showing notification flows across systems and touchpoints](/img/notifications-touchpoints.png)
 
@@ -34,8 +34,8 @@ I worked with stakeholders across many different teams to identify all people, s
 
 I identified multiple pain points that were causing users to receive notifications inconsistently, including:
 - Some notifications were excessive, some were not showing up at all.
-- Staff not receiving notifications through the support chain.
-- Notification messaging for an appointment inconsistent depending on what system it originated from.
-- Complex notification business rules.
+- Staff were not receiving notifications through the support chain.
+- Different systems were sending duplicate notifications for the same appointment with different language and branding.
+- Complex notification business rules lead to facilities treating similar appointments with different notification protocols.
 
 Our stakeholders used these findings to advocate for simplifying systems and processes so our users could trust the messaging they receive around their health care. 

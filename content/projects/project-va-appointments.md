@@ -20,7 +20,7 @@ When we transitioned users to a new appointments tool, monthly users jumped from
 
 ### Background
 
-Users had to navigate three different portals to access their health care information. The client was working toward switching off two of those portals so users would be able to access everything in one place. Our team was tasked with building the tool that would let users manage and schedule appointments in the new unified portal experience. For this project we improved upon all the functionality users had come to expect from the previous portal and added new scheduling features. We also provided an easy transition from the old portals. 
+Users had to navigate three different portals to access their health care information. The client was working toward switching off two of those portals so users would be able to access everything in one place. Our team managed the tool that would let users manage and schedule appointments in the new unified portal experience. For this project we improved upon all the functionality users had come to expect from the previous portal and added new scheduling features. We also provided an easy transition from the old portals. 
 
 ### My work
 
@@ -37,4 +37,4 @@ To accomplish this I set up the research and testing strategy for our team:
 
 ### Outcome
 
-Even with the increase in users, positive feedback has remained higher than before the transition. Users haven’t noted any major new issues or feature requests which indicates that we were successful in capturing the key functionality from the old portal. 
+Even with the increase in users, positive feedback has remained higher than before the transition. Users haven’t noted any major new issues or feature requests, which indicates that we were successful in capturing the key functionality from the old portal. 

@@ -21,11 +21,11 @@ I developed a process for analyzing user feedback that helped our team identify 
 
 ## Background
 
-Every day the team would receive 50-100 comments about the appointments tool through anonymous surveys. We needed a process to understand the most important needs users were reporting, and whether we were really mitigating issues when we addressed them.
+Every day the team would receive 50 to 100 comments about the appointments tool through anonymous surveys. We needed a process to understand the most important needs users were reporting, and whether we were really mitigating issues when we addressed them.
 
 ## My work
 
-I developed a method to analyze the feedback for themes, sentiment, and feature requests, as well as a structure to regularly report out the findings:
+I developed a method to analyze the feedback for themes, sentiment, and feature requests, as well as a structure to regularly report the findings:
 
 - I coded all the user feedback for themes, feature requests, bugs, and outage reports.
 - I set up regular reports on the themes from feedback to the team and stakeholders. I brought users' top asks to roadmap discussions. 
