@@ -3,12 +3,20 @@
 body {
 	overscroll-behavior: none; // fixes menu off bottom of screen.
 	height: auto;
+	min-height: 100vh;
+	min-height: 100dvh;
+	display: flex;
+	flex-direction: column;
 	max-width: 100%;
 	&.has-menu-active {
 		// Stops backround moving when menu open.
 		overflow: hidden;
 		height: 100%;
 	}
+}
+
+#content {
+	flex: 1 0 auto;
 }
 
 .container {
